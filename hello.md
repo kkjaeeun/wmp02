@@ -1,9 +1,9 @@
 자기소개서
 -------------------
-이름 : 
+이름 : 곽재은
 
-팀 : 
+팀 : 생산성 효율화팀
 
-Github ID : 
+Github ID : kkjaeeun
 
-E-mail : 
+E-mail : kkkjaeeun@wemakeprice.com
